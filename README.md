@@ -1,2 +1,2 @@
 # dev-repo
-My development repository
+My development repository for MIDI and Audio API work
